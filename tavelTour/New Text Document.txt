@@ -1,1 +1,13 @@
 sorry i just have to commit here
+
+Database Queries for BANK MANAGEMENT SYSTEM Project
+---------------------------------------------------
+
+1 - Create database with name bankmanagementsystem in mysql
+
+create database bankmanagementsystem;
+
+2 - Select the database you just created
+
+use travel;
+
